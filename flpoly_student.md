@@ -21,6 +21,12 @@ I am _passionate about_:
 
 - Women in STEM <https://foundation.floridapoly.edu/women-in-stem/>
 
-***
+|**Prefix**|**Number**|*Name*|Credits|
+|----------|----------|------|-------|
+|**QMB**|**3200**|*Advanced Quantitative Methods*|3|
+|**COP**|**3353**|*Introduction to Unix*|2|
+|**COP**|**3530**|*Data Structures and Algorithms*|3|
+|**COP**|**3729**|*Database 2*|3|
+|**EGS**|**3625**|*Eng and Tech Project Management*|3|
 
 > Last modified: 2021/07/06
